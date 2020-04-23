@@ -1,6 +1,9 @@
-Name : Shreyas Mohan
+# training-iris
+
+This project is part of the Machine Learning coursework. Training the iris dataset via linear regression. Using Supervised Learning to do classification. Using k-fold cross validation here.
 
 Application Used: Spyder
+
 Language Used: Python 3.7
 
 Libraries used: Numpy, sklearn(cross_val_predict, cross_val_score, cross_val_predict, Kfold, train_test_split)
